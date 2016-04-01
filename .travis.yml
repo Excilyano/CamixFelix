@@ -1,3 +1,2 @@
 language: java
-script: "cd Camix_Java && mvn test && mvn verify"
-script: "cd ../Felix_Java && mvn test"
+script: "cd Camix_Java && mvn test && mvn verify && cd ../Felix_Java && mvn test"
