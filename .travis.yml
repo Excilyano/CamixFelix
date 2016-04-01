@@ -1,2 +1,5 @@
 language: java
-script: "cd Camix_Java && mvn test && mvn verify && cd ../Felix_Java && mvn test"
+jdk:
+  - oraclejdk8
+script: "cd Camix_Java && mvn verify"
+script: "cd Felix_Java && mvn test"
