@@ -1,2 +1,2 @@
 # CamixFelix
-https://travis-ci.org/Excilyano/CamixFelix.svg?branch=master
+<img src="https://travis-ci.org/Excilyano/CamixFelix.svg?branch=master">
