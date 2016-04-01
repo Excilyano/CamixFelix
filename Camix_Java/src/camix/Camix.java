@@ -15,7 +15,7 @@ public final class Camix
 	/**
 	 * Fichier de configuration du serveur.
 	 */
-	public static final ResourceBundle CONFIGURATION = ResourceBundle.getBundle("Configuration");
+	public static final ResourceBundle CONFIGURATION1 = ResourceBundle.getBundle("Configuration");
 
 	/**
 	 * Constructeur privé de Camix.
